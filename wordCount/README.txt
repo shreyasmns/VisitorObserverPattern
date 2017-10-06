@@ -1,17 +1,7 @@
 
-CS542 Design Patterns
-Fall-2016
-Assignment 4
-
 README FILE
 
-Due Date: Wedndsday, November 23, 2016
-Submission Date: Wedndsday, November 23, 2016
-Author: Shreyas Mahanthappa Nagaraj
-e-mail: smn1@binghamton.edu
-
-PURPOSE: To implement word count "wc" command using Visitor and Observer pattern in Java
-PERCENT COMPLETE: I believe I have completed 100% of this project.
+PURPOSE: To implement word count "wc" command using Visitor and Observer pattern in Java.
 
 FILES:
 		------driver:
